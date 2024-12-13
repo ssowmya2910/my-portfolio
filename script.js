@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Resume link
     resumeLink.addEventListener('click', function() {
-        window.open('https://drive.google.com/file/d/1O4Q_15wrD1ZBoDn2SUXTuwxUe5PwxPzA/view?usp=drivesdk', '_blank'); 
+        window.open('https://drive.google.com/file/d/1O4Q_15wrD1ZBoDn2SUXTuwxUe5PwxPzA/view?usp=sharing', '_blank'); 
     });
 
     
